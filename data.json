@@ -1,0 +1,342 @@
+{
+  "users": [
+    {
+      "name": "default",
+      "components": {
+        "stocks": {
+          "symbols": [
+            { "type": 1, "name": "BTC" },
+            { "type": 0, "name": "INTC" }
+          ]
+        },
+        "calendar": [
+          {
+            "id": 1654200561710,
+            "startDate": 1654293540000,
+            "endDate": 1654293540000,
+            "name": "FINISH HOMEWORK"
+          }
+        ],
+        "shoppingList": []
+      },
+      "layout": [
+        {
+          "title": "Weather",
+          "icon": "ThermometerIcon",
+          "component": "WeatherContainer",
+          "row": 1,
+          "rowSpan": 1,
+          "column": 1,
+          "columnSpan": 2
+        },
+        {
+          "title": "Gains",
+          "icon": "LineChartIcon",
+          "component": "StocksContainer",
+          "row": 2,
+          "rowSpan": 1,
+          "column": 1,
+          "columnSpan": 2
+        },
+        {
+          "title": "Calendar",
+          "icon": "CalendarIcon",
+          "component": "CalendarCardBodyContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 3,
+          "columnSpan": 4
+        },
+        {
+          "title": "News",
+          "icon": "Globe2Icon",
+          "component": "NewsContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 7,
+          "columnSpan": 6
+        },
+        {
+          "title": "Book recommendations",
+          "icon": "BookIcon",
+          "component": "BooksContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 1,
+          "columnSpan": 6
+        },
+        {
+          "title": "Chat",
+          "icon": "MessageCircleIcon",
+          "component": "ChatContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 7,
+          "columnSpan": 6
+        }
+      ]
+    },
+    {
+      "name": "User",
+      "components": {
+        "stocks": {
+          "symbols": [
+            { "type": 0, "name": "INTC" },
+            { "type": 0, "name": "AMD" }
+          ]
+        },
+        "calendar": [
+          {
+            "id": 2,
+            "startDate": 1653914633823,
+            "endDate": 1653921933823,
+            "name": "Become deaf 👂 watching forsen",
+            "reminder": false
+          },
+          {
+            "id": 1654188809755,
+            "startDate": 1654188780000,
+            "endDate": 1654188780000,
+            "name": "test",
+            "reminder": false
+          },
+          {
+            "id": 1654189043272,
+            "startDate": 1654189020000,
+            "endDate": 1656176220000,
+            "name": "TESSSSSSSSSSSSSSSSSSSSSSSST",
+            "reminder": false
+          },
+          {
+            "id": 1654189925655,
+            "startDate": 1654189920000,
+            "endDate": 1654189920000,
+            "name": "test2"
+          },
+          {
+            "id": 1654190079832,
+            "startDate": 1654190040000,
+            "endDate": 1654190040000,
+            "name": "test232"
+          },
+          {
+            "id": 1654190090168,
+            "startDate": 1654190040000,
+            "endDate": 1654190040000,
+            "name": "asdasdasdas",
+            "reminder": false
+          },
+          {
+            "id": 1654190112402,
+            "startDate": 1654276440000,
+            "endDate": 1654276500000,
+            "name": "June 3rdddd",
+            "reminder": false
+          }
+        ],
+        "shoppingList": []
+      },
+      "layout": [
+        {
+          "title": "Weather",
+          "icon": "ThermometerIcon",
+          "component": "WeatherContainer",
+          "row": 2,
+          "rowSpan": 1,
+          "column": 1,
+          "columnSpan": 2
+        },
+        {
+          "title": "Gains",
+          "icon": "LineChartIcon",
+          "component": "StocksContainer",
+          "row": 1,
+          "rowSpan": 1,
+          "column": 1,
+          "columnSpan": 2
+        },
+        {
+          "title": "Calendar",
+          "icon": "CalendarIcon",
+          "component": "CalendarCardBodyContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 3,
+          "columnSpan": 4
+        },
+        {
+          "title": "News",
+          "icon": "Globe2Icon",
+          "component": "NewsContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 7,
+          "columnSpan": 6
+        },
+        {
+          "title": "Book recommendations",
+          "icon": "BookIcon",
+          "component": "BooksContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 1,
+          "columnSpan": 6
+        },
+        {
+          "title": "Chat",
+          "icon": "MessageCircleIcon",
+          "component": "ChatContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 7,
+          "columnSpan": 6
+        }
+      ]
+    },
+    {
+      "name": "VimUser",
+      "components": {
+        "stocks": {
+          "symbols": [
+            { "type": 1, "name": "BTC" },
+            { "type": 0, "name": "TSLA" },
+            { "type": 0, "name": "AAPL" },
+            { "type": 0, "name": "INTC" },
+            { "type": 0, "name": "AMD" }
+          ]
+        },
+        "calendar": [
+          {
+            "id": 1654192701781,
+            "startDate": 1654192680000,
+            "endDate": 1654192680000,
+            "name": "Test",
+            "reminder": false
+          },
+          {
+            "id": 1654258919183,
+            "startDate": 1654258860000,
+            "endDate": 1654291260000,
+            "name": "Finish tests for homework",
+            "reminder": true
+          },
+          {
+            "id": 1654258970839,
+            "startDate": 1654258920000,
+            "endDate": 1654258920000,
+            "name": "abcd",
+            "reminder": true
+          }
+        ],
+        "shoppingList": [
+          {
+            "id": 1654200396359,
+            "name": "asdas das dasdas",
+            "amount": 11231231
+          },
+          { "id": 1654200401294, "name": "ASSDASDAS", "amount": 1 }
+        ]
+      },
+      "layout": [
+        {
+          "title": "Gains",
+          "icon": "LineChartIcon",
+          "component": "StocksContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 1,
+          "columnSpan": 6
+        },
+        {
+          "title": "Book recommendations",
+          "icon": "BookIcon",
+          "component": "BooksContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 1,
+          "columnSpan": 6
+        },
+        {
+          "title": "Chat",
+          "icon": "MessageCircleIcon",
+          "component": "ChatContainer",
+          "row": 1,
+          "rowSpan": 4,
+          "column": 7,
+          "columnSpan": 6
+        }
+      ]
+    },
+    {
+      "name": "Willys",
+      "components": {
+        "stocks": {
+          "symbols": [
+            { "type": 1, "name": "BTC" },
+            { "type": 0, "name": "INTC" }
+          ]
+        },
+        "calendar": [],
+        "shoppingList": []
+      },
+      "layout": [
+        {
+          "title": "Weather",
+          "icon": "ThermometerIcon",
+          "component": "WeatherContainer",
+          "row": 1,
+          "rowSpan": 1,
+          "column": 1,
+          "columnSpan": 2
+        },
+        {
+          "title": "Gains",
+          "icon": "LineChartIcon",
+          "component": "StocksContainer",
+          "row": 2,
+          "rowSpan": 1,
+          "column": 1,
+          "columnSpan": 2
+        },
+        {
+          "title": "Calendar",
+          "icon": "CalendarIcon",
+          "component": "CalendarCardBodyContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 3,
+          "columnSpan": 4
+        },
+        {
+          "title": "News",
+          "icon": "Globe2Icon",
+          "component": "NewsContainer",
+          "row": 1,
+          "rowSpan": 2,
+          "column": 7,
+          "columnSpan": 6
+        },
+        {
+          "title": "Book recommendations",
+          "icon": "BookIcon",
+          "component": "BooksContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 1,
+          "columnSpan": 6
+        },
+        {
+          "title": "Chat",
+          "icon": "MessageCircleIcon",
+          "component": "ChatContainer",
+          "row": 3,
+          "rowSpan": 2,
+          "column": 7,
+          "columnSpan": 6
+        }
+      ]
+    }
+  ],
+  "weather": { "lon": 16.2068, "lat": 58.996 },
+  "chatRooms": ["Entertainment Room", "Garage", "Kid's room"]
+}
